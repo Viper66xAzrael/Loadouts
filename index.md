@@ -1,4 +1,4 @@
-# LOADOUTS
+# Loadouts
 
 ### Features
 - Adds reality gun variants to the game's **Gunsmith**
